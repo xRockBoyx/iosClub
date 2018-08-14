@@ -12,6 +12,7 @@
 		24711E712122A2B100AA7693 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24711E6F2122A2B100AA7693 /* Main.storyboard */; };
 		24711E732122A2B300AA7693 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24711E722122A2B300AA7693 /* Assets.xcassets */; };
 		24711E762122A2B300AA7693 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24711E742122A2B300AA7693 /* LaunchScreen.storyboard */; };
+		24711E802122A33900AA7693 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24711E7F2122A33900AA7693 /* Car.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		24711E722122A2B300AA7693 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24711E752122A2B300AA7693 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24711E772122A2B300AA7693 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24711E7F2122A33900AA7693 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				24711E722122A2B300AA7693 /* Assets.xcassets */,
 				24711E742122A2B300AA7693 /* LaunchScreen.storyboard */,
 				24711E772122A2B300AA7693 /* Info.plist */,
+				24711E7F2122A33900AA7693 /* Car.swift */,
 			);
 			path = iosClub;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				24711E6E2122A2B100AA7693 /* ViewController.swift in Sources */,
 				24711E6C2122A2B100AA7693 /* AppDelegate.swift in Sources */,
+				24711E802122A33900AA7693 /* Car.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
